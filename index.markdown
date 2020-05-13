@@ -1,11 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: Critical Perspectives on AI/ML in Musical Interfaces
 layout: home
 ---
-
-# Critical Perspectives on AI/ML in Musical Interfaces
 
 Organisers: Charles P Martin, Fabio Morreale, Benedikte Wallace, Hugo Scurto
 

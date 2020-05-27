@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+_Critical Perspectives on AI/ML in Musical Interfaces_ is a workshop that will take place at NIME 2020 as part of the online conference.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We pose the workshop as follows:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+	The use of machine learning and AI in everyday applications has taken off in recent years. Now, you can buy a refrigerator with “AI”, but, despite much media interest in “AI composers”, not a musical instrument (or perhaps, not a good one). This workshop seeks to develop a community of NIME researchers and practitioners to analyse the roles that computational intelligence already plays in music technology and where it may play a role in future. 
 
+	We aim to consolidate current ML-related thought in NIME, and to develop a research network that focuses on future work in ML-enhanced interfaces for musical performance. Notably, this objective diverges from previous NIME research that has focused on technical implementations; rather, we aim to offer a forum for academic discussions on critical and theoretical perspectives.
 
-[jekyll-organization]: https://github.com/jekyll
+This website provides information about the workshop submissions, organisers, and a record of everything that happened during the workshop.

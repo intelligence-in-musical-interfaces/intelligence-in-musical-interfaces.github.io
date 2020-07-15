@@ -12,4 +12,4 @@ To participate in the workshop all you have to do is:
 4. Discussions will occur over video conferencing as well in a communal discussion document / whiteboard. You can add to this at any time over the conference.
 5. At the end of the conference, the discussions will be distilled into a framework that will be published on the website.
 
-Links for submissions will be up soon!
+Submissions are now open for blog posts through [this form (link).](https://docs.google.com/forms/d/e/1FAIpQLSeJhT8SXipB-4jGUSGAAWD6n4n3n3nYe_vjwxn1SbBApD62lA/viewform?usp=sf_link)

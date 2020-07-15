@@ -9,7 +9,7 @@ Organisers: Charles P Martin, Fabio Morreale, Benedikte Wallace, Hugo Scurto
 
 Welcome to the first NIME workshop on Critical Perspectives on AI/ML in Musical Interfaces!
 
-Submissions are now open.
+Submissions are now open for blog posts through [this form (link).](https://docs.google.com/forms/d/e/1FAIpQLSeJhT8SXipB-4jGUSGAAWD6n4n3n3nYe_vjwxn1SbBApD62lA/viewform?usp=sf_link)
 
 ## Workshop Provocation
 

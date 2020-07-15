@@ -11,6 +11,8 @@ Welcome to the first NIME workshop on Critical Perspectives on AI/ML in Musical 
 
 Submissions are now open for blog posts through [this form (link).](https://docs.google.com/forms/d/e/1FAIpQLSeJhT8SXipB-4jGUSGAAWD6n4n3n3nYe_vjwxn1SbBApD62lA/viewform?usp=sf_link)
 
+The workshop will take place on Zoom (meeting link to follow), Discord ([server link](https://discord.gg/cPb69Rh)), and Padlet (link to follow). <!-- https://padlet.com/charlesmatarles/1xft4xqn9jit55n7 -->
+
 ## Workshop Provocation
 
 The use of machine learning and AI in everyday applications has taken off in recent years. Now, you can buy a refrigerator with “AI”, but, despite much media interest in “AI composers”, not a musical instrument (or perhaps, not a good one). This workshop seeks to develop a community of NIME researchers and practitioners to analyse the roles that computational intelligence already plays in music technology and where it may play a role in future. 

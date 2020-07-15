@@ -23,7 +23,7 @@ Should be fun!
 1. Start in a Zoom Call provided by NIME
 2. The organisers will give a 5-minute intro to the session explaining the idea behind the four themes: expaining the workshop provocation, and then say what we expect of attendees (contribute their critical perspectives on one or more themes.
 3. The workshop splits into breakout rooms for each theme for four 10-minute brainstorming sessions (one on each theme), if you don't want discuss a theme, you are free to stay on the one you are most passionate about!
-4. Last 10 minutes: come back together to look at what everybody came up with and distill some common points. The facilitator will show their screen to talk about the contributions everyody has made.
+4. Last 10 minutes: come back together to look at what everybody came up with and distill some common points. The facilitator will show their screen to talk about the contributions everyody has made or each group could discuss their contributions.
 
 **Most importantly**: Everybody is contributing to an ongoing padlet with ideas and perspectives. Within Zoom breakouts you should discuss these ideas and come up with some new contributions.
 

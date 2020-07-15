@@ -27,6 +27,8 @@ Should be fun!
 
 **Most importantly**: Everybody is contributing to an ongoing padlet with ideas and perspectives. Within Zoom breakouts you should discuss these ideas and come up with some new contributions.
 
+**Logging into services**: You are free to contribute to the padlets and discord as an anonymous visitor, but if you would like to create an account it may help others to make some social connections during the workshop.
+
 ### Padlets
 
 - [Link to Main Workshop Padlet](https://padlet.com/charlesmatarles/1xft4xqn9jit55n7)

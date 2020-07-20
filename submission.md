@@ -2,6 +2,7 @@
 layout: page
 title: How to participate
 permalink: /participate/
+published: false
 ---
 
 To participate in the workshop all you have to do is:

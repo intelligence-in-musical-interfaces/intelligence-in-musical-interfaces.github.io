@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Schedule and How This Works!
 permalink: /schedule/
 ---
 
@@ -29,13 +29,17 @@ Should be fun!
 
 **Logging into services**: You are free to contribute to the padlets and discord as an anonymous visitor, but if you would like to create an account it may help others to make some social connections during the workshop.
 
-### Padlets
+### Padlet Links
+
+Here's a link to each padlet:
 
 - [Link to Main Workshop Padlet](https://padlet.com/charlesmatarles/1xft4xqn9jit55n7)
-- [Link to Musicological Perspectives]() (to follow)
-- [Link to Social and Cultural Impact]() (to follow)
-- [Link to Design and Research Methods]() (to follow)
-- [Link to Diversity and Ethics]() (to follow)
+- [Link to Musicological Perspectives](https://padlet.com/charlesmatarles/48pzfxacd29wqtlc)
+- [Link to Social and Cultural Impact](https://padlet.com/charlesmatarles/umm4c6vkaru5lm8n)
+- [Link to Design and Research Methods](https://padlet.com/charlesmatarles/ucw3jjqzkxazx78j)
+- [Link to Diversity and Ethics](https://padlet.com/charlesmatarles/qj11m1409djoafrq)
+
+You can get started adding your ideas to the padlets right now!
 
 ### After the session:
 

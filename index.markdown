@@ -9,9 +9,33 @@ Organisers: Charles P Martin, Fabio Morreale, Benedikte Wallace, Hugo Scurto
 
 Welcome to the first NIME workshop on Critical Perspectives on AI/ML in Musical Interfaces!
 
+{% comment %}
 Submissions are now open for blog posts through [this form (link).](https://docs.google.com/forms/d/e/1FAIpQLSeJhT8SXipB-4jGUSGAAWD6n4n3n3nYe_vjwxn1SbBApD62lA/viewform?usp=sf_link)
+{% endcomment %}
 
-The workshop will take place on Zoom (meeting link to follow), Discord ([server link](https://discord.gg/cPb69Rh)), and Padlet (link to follow). <!-- https://padlet.com/charlesmatarles/1xft4xqn9jit55n7 -->
+## When is the workshop?
+
+The workshop will be on 20-**21**-22/7/2020 (depending on your timezone) in three sessions:
+
+1. 05:00 – 6:00 (UTC+1)
+2. 13:00 – 14:00 (UTC+1)
+3. 21:00 – 22:00 (UTC+1)
+
+See the [NIME Programme](https://nime2020.bcu.ac.uk/programme/) to convert these into your timezone.
+
+You are welcome to attend whichever session is most convenient for you, or more than one!
+
+## How do I attend the workshop?
+
+- The workshop will take place on Zoom (meeting link sent to you in emails), 
+- Discord ([server link](https://discord.gg/cPb69Rh)), 
+- and [Padlet](https://padlet.com/charlesmatarles/1xft4xqn9jit55n7).
+
+If you can't find the meeting links in your emails, jump onto our [discord server](https://discord.gg/cPb69Rh) and you'll find them there.
+
+## How do I contribute?
+
+See the ["Schedule and How this Works" page](schedule/) for instructions about how the workshop sessions will work and how you can contribute before, during, and after the synchronous sessions.
 
 ## Workshop Provocation
 
@@ -47,7 +71,11 @@ We aim to consolidate current ML-related thought in NIME, and to develop a resea
 - How should we cope with legal issues related to data ownership in ML-based NIMEs?
 - How should we cope with the environmental issues related to the training of AI/ML for NIMEs?
 
-The workshop will involve short talks from participants to frame their research topic and/or musical practices. Abstracts to present will be selected by the organisers with a short round of peer-review. Non-presenting participation will also be allowed. The bulk of the workshop will be focussed on community building and co-design activities. The outcomes of the workshop will be used to motivate an edited volume or special issue on the use of ML/AI in NIME interfaces and performance practices.
+{% comment %}
+The workshop will involve short talks from participants to frame their research topic and/or musical practices. Abstracts to present will be selected by the organisers with a short round of peer-review. Non-presenting participation will also be allowed. 
+{% endcomment %}
+
+The bulk of the workshop will be focussed on community building and co-design activities. The outcomes of the workshop will be used to motivate an edited volume or special issue on the use of ML/AI in NIME interfaces and performance practices.
 
 <!-- ## Draft Session Plan (4 hours planned) -->
 

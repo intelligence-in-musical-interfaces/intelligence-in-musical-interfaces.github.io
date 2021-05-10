@@ -4,15 +4,18 @@ title: Schedule and How This Works!
 permalink: /schedule/
 ---
 
-The workshop is part of NIME2020 and the [conference schedule can be found here](https://nime2020.bcu.ac.uk/programme/).
+The workshop is part of NIME2021 and the [conference schedule can be found here](https://nime2021.org).
 
-We have three one-hour discussion sessions which will include a separate discussion room for each theme. The three sessions are spaced out throughout the day to allow participants from any timezone to find an appropriate time to join us.
+We have three 1.5-hour discussion sessions which will each focus on one theme. The three sessions are spaced out throughout the day to allow participants from any timezone to find an appropriate time to join us.
 
+{% comment %}
 1. 05:00 – 6:00 (UTC+1) 21/7/2020
 2. 13:00 – 14:00 (UTC+1) 21/7/2020
 3. 21:00 – 22:00 (UTC+1) 21/7/2020
+{% endcomment %}
+(Times TBA)
 
-After the workshop day we will have asynchronous collaborations to arrange the discussions into a comprehensive framework that will serve to motivate future publication and presentation opportunitites!
+After the workshop day we will have asynchronous collaborations to arrange the discussions into a comprehensive framework that will serve to motivate future publication and presentation opportunities!
 
 Collaborative documents and whiteboards will be available throughout the conference.
 
@@ -21,8 +24,10 @@ Should be fun!
 ### How Each Session Will Work:
 
 1. Start in a Zoom Call provided by NIME (check email or [see Discord](https://discord.gg/cPb69Rh) for URL)
-2. The organisers will give a 5-minute intro to the session explaining the idea behind the four themes: expaining the workshop provocation, and then say what we expect of attendees (contribute their ideas and views on one or more themes.
-3. The workshop splits into breakout rooms for each theme for two 20-minute brainstorming sessions, if you don't want discuss a theme, you are free to stay on the one you are most passionate about!
+2. The organisers will give a 5-minute intro to the session explaining the idea behind the session theme: explaining the workshop provocation, and then say what we expect of attendees (contribute their ideas and views on one or more themes.
+3. Panellists each provide a 5-minute introduction to their perspective on the theme.
+4. The panellists and organisers will discuss the theme and address questions arising from the group.
+3. The workshop splits into breakout rooms for two 20-minute brainstorming sessions.
 4. Last 10 minutes: come back together to look at what everybody came up with and distill some common points. The facilitator will show their screen to talk about the contributions everyody has made or each group could discuss their contributions.
 
 **Most importantly**: Everybody is contributing to an ongoing [padlet](https://padlet.com/charlesmatarles/CritPerspAIML) with ideas and perspectives. Within Zoom breakouts you should discuss these ideas and come up with some new contributions.
@@ -35,11 +40,13 @@ The [padlets](https://padlet.com/charlesmatarles/CritPerspAIML) are the main pla
 
 Here's a link to each padlet:
 
+{% comment %}
 - [Link to Main Workshop Padlet](https://padlet.com/charlesmatarles/CritPerspAIML)
 - [Link to Musicological Perspectives](https://padlet.com/charlesmatarles/48pzfxacd29wqtlc)
 - [Link to Social and Cultural Impact](https://padlet.com/charlesmatarles/umm4c6vkaru5lm8n)
 - [Link to Design and Research Methods](https://padlet.com/charlesmatarles/ucw3jjqzkxazx78j)
 - [Link to Diversity and Ethics](https://padlet.com/charlesmatarles/qj11m1409djoafrq)
+{% endcomment %}
 
 You can get started adding your ideas to the padlets right now!
 

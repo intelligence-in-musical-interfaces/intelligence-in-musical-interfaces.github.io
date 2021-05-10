@@ -4,25 +4,19 @@ layout: page
 
 Organisers: Charles P Martin, Fabio Morreale, Benedikte Wallace, Hugo Scurto
 
-Welcome to the first NIME workshop on Critical Perspectives on AI/ML in Musical Interfaces!
+Welcome to the _second_ NIME workshop on Critical Perspectives on AI/ML in Musical Interfaces!
 
-{% comment %}
-Submissions are now open for blog posts through [this form (link).](https://docs.google.com/forms/d/e/1FAIpQLSeJhT8SXipB-4jGUSGAAWD6n4n3n3nYe_vjwxn1SbBApD62lA/viewform?usp=sf_link)
-{% endcomment %}
+### When is the workshop?
 
-## When is the workshop?
+The workshop will be on **14**/7/2020 (depending on your timezone) in three sessions:
 
-The workshop will be on 20-**21**-22/7/2020 (depending on your timezone) in three sessions:
+(TBA)
 
-1. 05:00 – 6:00 (UTC+1)
-2. 13:00 – 14:00 (UTC+1)
-3. 21:00 – 22:00 (UTC+1)
-
-See the [NIME Programme](https://nime2020.bcu.ac.uk/programme/) to convert these into your timezone.
+See the [NIME Programme](https://nime2021.org) for registration details.
 
 You are welcome to attend whichever session is most convenient for you, or more than one!
 
-## How do I attend the workshop?
+### How do I attend the workshop?
 
 - The workshop will take place on Zoom (meeting link sent to you in emails), 
 - Discord ([server link](https://discord.gg/cPb69Rh)), 
@@ -30,17 +24,30 @@ You are welcome to attend whichever session is most convenient for you, or more 
 
 If you can't find the meeting links in your emails, jump onto our [discord server](https://discord.gg/cPb69Rh) and you'll find them there.
 
-## How do I contribute?
+### How do I contribute?
 
 See the ["Schedule and How this Works" page](schedule/) for instructions about how the workshop sessions will work and how you can contribute before, during, and after the synchronous sessions.
 
 ## Workshop Provocation
 
-The use of machine learning and AI in everyday applications has taken off in recent years. Now, you can buy a refrigerator with “AI”, but, despite much media interest in “AI composers”, not a musical instrument (or perhaps, not a good one). This workshop seeks to develop a community of NIME researchers and practitioners to analyse the roles that computational intelligence already plays in music technology and where it may play a role in future. 
+The use of machine learning and AI in everyday applications has taken off in recent years. Now, you can buy a refrigerator with “AI”, but, despite much media interest in “AI composers”, not a musical instrument (or perhaps, not a good one). This workshop seeks to develop a community of NIME researchers and practitioners to analyse the roles that computational intelligence already plays in music technology and where it may play a role in future.
 
-We aim to consolidate current ML-related thought in NIME, and to develop a research network that focuses on future work in ML-enhanced interfaces for musical performance. Notably, this objective diverges from previous NIME research that has focused on technical implementations; rather, we aim to offer a forum for academic discussions on critical and theoretical perspectives. Our workshop will be motivated by four themes and a number of hard questions related to musical AI/ML:
+This workshop follows up on a successful 2020 edition of “Critical Perspectives”. We aim to consolidate current ML-related thought in NIME, and to develop a research network that focuses on future work in ML-enhanced interfaces for musical performance. 
 
-### Musicological Perspectives:
+Notably, this objective diverges from previous NIME research that has focused on technical implementations; rather, we aim to offer a forum for academic discussions on critical and theoretical perspectives.
+
+Our workshop format is online-first and inclusive in terms of geographic location and timezone as well as background and research area. We aim to include as many participants as possible.
+
+Our workshop will be motivated by three themes, each the focus of one session, and a number of hard questions related to musical AI/ML:
+
+#### Social and Cultural Impact (session 1):
+
+- What are the potential benefits and drawbacks of using AI/ML in NIMEs?
+- Is musical AI/ML a product of our techno-euphoric climate or will its effects be long-lasting?
+- What will the effects be on enhancement and reduction of performers' creativity?
+- What role could musical AI/ML have in education?
+
+#### Musicological Perspectives (session 2):
 
 - What are the roles of AI/ML in NIMEs?
 - What kind of NIMEs and music technology does AI/ML afford?
@@ -48,55 +55,11 @@ We aim to consolidate current ML-related thought in NIME, and to develop a resea
 - What distinguishes current/new applications of AI/ML to NIMEs from those already established?
 - Can AI/ML-enabled instruments produce unique music?
 
-### Social and Cultural Impact:
-
-- What are the potential benefits and drawbacks of using AI/ML in NIMEs?
-- Is musical AI/ML a product of our techno-euphoric climate or will its effects be long-lasting?
-- What will the effects be on enhancement and reduction of performers' creativity?
-- What role could musical AI/ML have in education?
-
-### Design and Research Methods:
-
-- What concepts other than computational creativity could drive the design of ML/AI in NIMEs?
-- How to better include users in the musical AI/ML-design process?
-- What evaluation methods could be developed for AI/ML with relevance to NIMEs?
-- How can practice-based artistic research complement technical progress of AI/ML in NIMEs?
-
-### Diversity and Ethics:
+#### Diversity and Ethics (session 3):
 
 - What kind of musical bias could data used for training ML models potentially encapsulate?
 - How should we cope with legal issues related to data ownership in ML-based NIMEs?
 - How should we cope with the environmental issues related to the training of AI/ML for NIMEs?
 
-{% comment %}
-The workshop will involve short talks from participants to frame their research topic and/or musical practices. Abstracts to present will be selected by the organisers with a short round of peer-review. Non-presenting participation will also be allowed. 
-{% endcomment %}
-
-The bulk of the workshop will be focussed on community building and co-design activities. The outcomes of the workshop will be used to motivate an edited volume or special issue on the use of ML/AI in NIME interfaces and performance practices.
-
-<!-- ## Draft Session Plan (4 hours planned) -->
-
-<!-- - Introduction and provocations from organisers (30m) -->
-<!-- - Short talks from participants introducing interests (60m - 5m each) -->
-<!-- - Division into theme groups: what are the main ideas behind each theme? (60m) -->
-<!-- - Design challenge: Towards framework for AI/ML in NIMEs (60m) -->
-
-<!--
-
-## Technical Requirements:
-
-This workshop will be an academic forum, as such our technical requirements are light.
-
-- Classroom or Seminar room
-- Projector / Speakers
-- HDMI and power for laptops to front of room
-- WiFi and power in order to stream presentations if appropriate and enable virtual participation to increase potential for inclusion.
- 
-## Workshop Length:
-
-We suggest a half-day workshop. -->
-
-## Outcomes:
-
-We intend that this workshop will lead to a special journal issue or edited volume on “Critical Perspectives on AI/ML in Musical Interfaces”.
+Each 90-minute session will include three panellists from in- and outside of the NIME community, who will provide an orientation talk and discussion on the theme of the session. The rest of the session will involve directed discussions with the participants to develop a body of ML-related research perspectives with an eventual goal of developing an edited volume or journal special issue with contributions from the NIME community.
 

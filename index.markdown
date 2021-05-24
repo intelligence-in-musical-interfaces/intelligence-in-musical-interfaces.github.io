@@ -8,9 +8,13 @@ Welcome to the _second_ NIME workshop on Critical Perspectives on AI/ML in Music
 
 ### When is the workshop?
 
-The workshop will be on **14**/7/2020 (depending on your timezone) in three sessions:
+The workshop will be on **14**/6/2020 (depending on your timezone) in three sessions (times to be confirmed in NIME program):
 
-(TBA)
+| Session | PDT (UTC-7) | EDT (UTC-4) | UTC+0 | CST (UTC+8) | AEST (UTC+10) | NZST (UTC+12) |
+|---------|-------------|-------------|-------|-------------|---------------|---------------|
+| 1       | 17:00       | 20:00       | 00:00 | 08:00       | 10:00         | 12:00         |
+| 2       | 01:00       | 04:00       | 08:00 | 16:00       | 18:00         | 20:00         |
+| 3       | 09:00       | 12:00       | 16:00 | 00:00       | 02:00         | 04:00         |
 
 See the [NIME Programme](https://nime2021.org) for registration details.
 

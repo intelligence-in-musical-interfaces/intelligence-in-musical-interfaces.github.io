@@ -4,18 +4,9 @@ title: Schedule and How This Works!
 permalink: /schedule/
 ---
 
-The workshop is part of NIME2021 and the [conference schedule can be found here](https://nime2021.org).
+The workshop is part of NIME2021 and the [conference schedule can be found here](http://nime2021.org/program/#/Schedule).
 
 We have three 1.5-hour discussion sessions which will each focus on one theme. The three sessions are spaced out throughout the day to allow participants from any timezone to find an appropriate time to join us.
-
-{% comment %}
-1. 05:00 – 6:00 (UTC+1) 21/7/2020
-2. 13:00 – 14:00 (UTC+1) 21/7/2020
-3. 21:00 – 22:00 (UTC+1) 21/7/2020
-{% endcomment %}
-(Times TBA)
-
-After the workshop day we will have asynchronous collaborations to arrange the discussions into a comprehensive framework that will serve to motivate future publication and presentation opportunities!
 
 Collaborative documents and whiteboards will be available throughout the conference.
 
@@ -23,41 +14,21 @@ Should be fun!
 
 ### How Each Session Will Work:
 
-1. Start in a Zoom Call provided by NIME (check email or [see Discord](https://discord.gg/cPb69Rh) for URL)
+1. Start in a Zoom Call and Slack Channel provided by NIME (check email for URL). Chat will take place in the NIME Slack.
 2. The organisers will give a 5-minute intro to the session explaining the idea behind the session theme: explaining the workshop provocation, and then say what we expect of attendees (contribute their ideas and views on one or more themes.
-3. Panellists each provide a 5-minute introduction to their perspective on the theme.
+3. Panellists each provide a 10-minute introduction to their perspective on the theme.
 4. The panellists and organisers will discuss the theme and address questions arising from the group.
-3. The workshop splits into breakout rooms for two 20-minute brainstorming sessions.
+3. The workshop splits into breakout rooms for a 30- to 45-minute brainstorming sessions.
 4. Last 10 minutes: come back together to look at what everybody came up with and distill some common points. The facilitator will show their screen to talk about the contributions everyody has made or each group could discuss their contributions.
 
-**Most importantly**: Everybody is contributing to an ongoing [padlet](https://padlet.com/charlesmatarles/CritPerspAIML) with ideas and perspectives. Within Zoom breakouts you should discuss these ideas and come up with some new contributions.
+### Slack Discussion
 
-**Logging into services**: You are free to contribute to the [padlets](https://padlet.com/charlesmatarles/CritPerspAIML) and [discord](https://discord.gg/cPb69Rh) as an anonymous visitor, but if you would like to create an account it may help others to make some social connections during the workshop.
+The discussion on Slack will be the main chat focus for the group and our way of producing a "proceedings" for the workshop. If you want to share any links, perspectives, or text, put it in the slack so we can find it later! :-D
 
-### Padlet Links
+### After the Workshop
 
-The [padlets](https://padlet.com/charlesmatarles/CritPerspAIML) are the main place to put your ideas in for the workshop. You can add ideas and comments before NIME, during the workshop discussions, and after the workshop.
+The Slack channels be open until the end of NIME, and our workshop  [discord](https://discord.gg/cPb69Rh) will be open forever!
 
-Here's a link to each padlet:
+The 1.5 hour sessions are just a start for understanding this topic and you are free to continue the discussion throughout NIME. You might even like to use the workshop as a framework for understanding and discussing the NIME papers you see during the week.
 
-{% comment %}
-- [Link to Main Workshop Padlet](https://padlet.com/charlesmatarles/CritPerspAIML)
-- [Link to Musicological Perspectives](https://padlet.com/charlesmatarles/48pzfxacd29wqtlc)
-- [Link to Social and Cultural Impact](https://padlet.com/charlesmatarles/umm4c6vkaru5lm8n)
-- [Link to Design and Research Methods](https://padlet.com/charlesmatarles/ucw3jjqzkxazx78j)
-- [Link to Diversity and Ethics](https://padlet.com/charlesmatarles/qj11m1409djoafrq)
-{% endcomment %}
-
-You can get started adding your ideas to the padlets right now!
-
-NB: It's nice to see who has contributed what, so please consider logging into Padlet so we can see your name. Anonymous submissions are also available if you would prefer that.
-
-### After the session:
-
-The [padlets](https://padlet.com/charlesmatarles/CritPerspAIML) will be open until the end of NIME, and the [discord](https://discord.gg/cPb69Rh) will be open forever!
-
-The 1-hour meeting should be just to get you started (you won't have time to articulate all your best ideas), please join in afterwards and during the conference to add more to the padlets and keep the discussion going in the discord server!
-
-You might even like to use the workshop as a framework for understanding and discussing the NIME papers you see during the week.
-
-At the end of the conference we will export the padlets and distill the discussions into a series of blog posts.
+At the end of the conference we will export the Slack chats and distill the discussions into a proceedings document to share.

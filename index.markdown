@@ -74,5 +74,5 @@ The workshop will take place in three sessions with different themes. You are we
 
 See the [schedule]({% link schedule.md %}) page for how each session will work!
 
-Each 90-minute session will include three panellists from in- and outside of the NIME community, who will provide an orientation talk and discussion on the theme of the session. The rest of the session will involve directed discussions with the participants to develop a body of ML-related research perspectives with an eventual goal of developing an edited volume or journal special issue with contributions from the NIME community.
+Each 90-minute session will include panellists from in- and outside of the NIME community, who will provide an orientation talk and discussion on the theme of the session. The rest of the session will involve directed discussions with the participants to develop a body of ML-related research perspectives with an eventual goal of developing an edited volume or journal special issue with contributions from the NIME community.
 

@@ -47,7 +47,7 @@ The workshop will take place in three sessions with different themes. You are we
 
 #### 1: Social and Cultural Impact 2021-06-14T00:00+00:00
 
-**Panellists: Suzanne Kite, Jonathan Sterne, Eunsu Kang**
+**Panellists: Suzanne Kite, Jonathan Sterne**
 
 - What are the potential benefits and drawbacks of using AI/ML in NIMEs?
 - Is musical AI/ML a product of our techno-euphoric climate or will its effects be long-lasting?
@@ -56,7 +56,7 @@ The workshop will take place in three sessions with different themes. You are we
 
 #### 2: Artistic and Creative Perspectives 2021-06-14T08:00+00:00
 
-**Panellists: Thor Magnusson, Sarah Fdili Alaoui**
+**Panellists: Thor Magnusson, Sarah Fdili Alaoui,  Eunsu Kang**
 
 - What are the roles of AI/ML in NIMEs?
 - What kind of NIMEs and music technology does AI/ML afford?
